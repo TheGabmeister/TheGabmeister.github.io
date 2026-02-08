@@ -165,6 +165,9 @@ $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
 
 ## Images
 
+### GIF
+![Test](/test-printer.gif){: width="493" height="373" }
+
 ### Default (with caption)
 
 ![Desktop View](/devices-mockup.png){: width="972" height="589" }

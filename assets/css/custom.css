@@ -1,0 +1,11 @@
+/* override site background */
+body {
+  background-color: #24292e !important; /* change to your color */
+}
+
+.sidebar,
+.site-sidebar,
+.sidebar-panel,
+.sidebar__inner {
+  background-color: #f0f4f8 !important; /* change to your color */
+}
