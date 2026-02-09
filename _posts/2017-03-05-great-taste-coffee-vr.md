@@ -1,9 +1,9 @@
 ---
-title: Template
+title: Great Taste Coffee VR
 description: A virtual reality tour of how Great Taste’s Dark Java and Viet Latte instant coffee are made from picking coffee cherries in the plantation to grinding beans in their production facility.
 date: 2017-03-05 12:00:00 +0800
-categories: [Virtual Reality, XR, Unity, C#, Programming]
-tags: [Virtual Reality, HTC Vive, Unity, C#, Game Development, Programming]
+categories: [3D Environment Art, Virtual Reality, XR, Unity]
+tags: [3D Modeling, Materials, Shaders, Lighting, Rendering, Virtual Reality, HTC Vive, Unity, Game Development]
 media_subpath: '/assets/20170305'
 image:
   path: /thumbnail-great-taste.jpg
