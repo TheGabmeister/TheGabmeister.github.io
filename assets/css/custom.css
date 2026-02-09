@@ -4,5 +4,23 @@ body {
 }
 
 #sidebar {
-  background-color: #f0f4f8 !important; /* change to your color */
+  background-color: #1d2125 !important; /* change to your color */
+}
+
+.home .post,
+.home article.post,
+.post-card,
+.post-preview,
+.post-list-item {
+  background-color: #2b3136 !important; /* posts background color */
+  color: #e6eef6 !important;
+  border-radius: 6px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+.home .post a,
+.post-card a,
+.post-preview a {
+  color: #58a6ff;
 }
