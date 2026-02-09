@@ -6,7 +6,7 @@ date: 2019-08-08 11:33:00 +0800
 categories: [Blogging, Demo]
 tags: [typography]
 pin: true
-media_subpath: '/posts/20180808'
+media_subpath: '/assets/20180808'
 math: true
 mermaid: true
 image:
