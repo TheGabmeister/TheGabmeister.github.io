@@ -1,6 +1,6 @@
 ---
 title: Sci-Fi Control Panel - Substance Designer
-description: Put your description here.
+description: Sci-Fi Control Panel based on a concept by Jeremy Love. Created entirely in Substance Designer. Rendered in Marmoset Toolbag.
 date: 2019-03-17 12:00:00 +0800
 categories: [3D Environment Art, Shaders / Materials]
 tags: [3D Modeling, Materials, Shaders, Lighting, Rendering, Substance Designer, Marmoset Toolbag]
