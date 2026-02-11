@@ -47,7 +47,7 @@ This one is found under the Settings button in the toolbar. Depending on your ty
 
 ![Engine Scalability Settings](/engine-scalability.jpg)
 
-As for actually exporting the mesh into Unreal, I used [renderhjs’ FBX Bundle exporter](http://renderhjs.net/fbxbundle/) (for Blender users, outdated as of 2019). This addon has batch export features as well as an Unreal Engine preset which saves a lot of time  and prevents all those rotation and scaling issues. As of this writing, I think this addon has some issues when exporting animation.
+As for actually exporting the mesh into Unreal, I used [renderhjs’ FBX Bundle exporter](https://renderhjs.net/fbxbundle/) (for Blender users, outdated as of 2019). This addon has batch export features as well as an Unreal Engine preset which saves a lot of time  and prevents all those rotation and scaling issues. As of this writing, I think this addon has some issues when exporting animation.
 
 ### 3. Adding a Sky sphere
 
